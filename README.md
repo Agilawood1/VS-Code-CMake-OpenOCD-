@@ -1,2 +1,2 @@
-# VS-Code-CMake-OpenOCD-
-如题
+# VS-Code-CMake-OpenOCD
+
